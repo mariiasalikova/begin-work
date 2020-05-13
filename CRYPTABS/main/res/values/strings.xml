@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CRYPTABS</string>
+    <string name="textBottom">Begin protecting your creations right now!</string>
+    <string name="btncode">Encrypt</string>
+    <string name="btndecode">Decrypt</string>
+    <string name="information">
+        1. Click Encrypt > Open Tab Editor. \n
+        2. Complete tab: 1st field - E High; 6th field - E Low.\n
+        Warning: Max tab fret is 21st fret. \n
+        3. The bottom field is Key Field. Record the key.\n
+        4. Click Save and Exit.\n
+        5. Show to watch the cipher and Copy to copy the Show Field.\n
+        6. Click on Decrypt button.\n
+        7. In field Insert your message you must insert your cipher.\n
+        8. In field Insert your key you must insert your key.\n
+        9. Click Decrypt.\n
+
+        ----\n
+        Cryptabs\n
+        Salikova Mariia, Voronezh 2020\n
+        All rights received\n
+    </string>
+
+</resources>
